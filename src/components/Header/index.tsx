@@ -7,7 +7,7 @@ import colors from '../../styles/colors';
 const Header: React.FC = () => {
   return (
     <Container>
-      <Avatar>
+      <Avatar >
         <OnlineStatus />
       </Avatar>
 
